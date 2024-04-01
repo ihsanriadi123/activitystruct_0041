@@ -24,6 +24,7 @@ int main() {
         cout << "nama mahasiswa: ";
         getline(cin,mhs.nama);
     
+    
 
     
         cout << "alamat mahasiswa:  "<<endl;
