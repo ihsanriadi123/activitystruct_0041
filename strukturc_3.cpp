@@ -22,6 +22,7 @@ int main() {
     getline(cin,mhs.nama);
     cin.ignore(1,'\n');
     
+    
     cout << "alamat mahasiswa:  "<<endl;
     cout << "\t nama desa : "
     cin >> mhs.alamat.desa;
