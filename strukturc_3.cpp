@@ -21,7 +21,7 @@ int main() {
     cout << "nama mahasiswa: ";
     getline(cin,mhs.nama);
     cin.ignore(1,'\n');
-    
+
     
     cout << "alamat mahasiswa:  "<<endl;
     cout << "\t nama desa : "
@@ -32,6 +32,7 @@ int main() {
     cin.ignore(1,'\n');
     cout << "umur mahasiswa: ";
     cin >> mhs.umur;
+
 
 
     cout << endl;
